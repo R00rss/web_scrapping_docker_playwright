@@ -12,7 +12,7 @@ Ensure you have the following packages installed:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/R00rss/web_scrapping_docker_playwright
 ```
 
 2. Run the docker build command
